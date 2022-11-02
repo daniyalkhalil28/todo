@@ -116,6 +116,6 @@ app.route("/delete/:itemCategory")
   });
 /* ------------------------------------ Others ------------------------------------ */
 
-app.listen(5000, function() {
-  console.log("Server is up and running on port 3000.");
+app.listen(8080, function() {
+  console.log("Server is up and running on port 8080.");
 });
